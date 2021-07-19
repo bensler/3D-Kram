@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg375"
+   width="141.10759mm"
+   height="154.62251mm"
+   viewBox="0 0 533.32001 584.40002"
+   sodipodi:docname="wheel_on_track_1.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:export-filename="/home/thomas/Documents/dev/own/3D-Kram/railtrackwheel/wheel_on_track_1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs379" />
+  <sodipodi:namedview
+     id="namedview377"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.677819"
+     inkscape:cx="234.23266"
+     inkscape:cy="177.61153"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="mm" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Railtrack Drawing"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:0.817936;fill:#808080;stroke:#000000;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       d="m 175.54815,495.25553 c 0.42257,-17.76899 5.38304,-126.3946 -16.64333,-141.07143 -17.34696,-10.91851 -52.70274,-22.28072 -79.054996,-33.4211 -3.40831,-2.75405 -8.1579,-4.11176 -9.14991,-9.38129 l 4.45415,-84.74796 c 0.60644,-6.28115 1.3201,-12.32693 3.11967,-15.98917 1.258,-3.55923 2.46883,-7.07199 8.35622,-15.1912 3.62835,-4.39917 7.85246,-7.71899 12.32473,-10.5892 l 16.188686,-7.31703 c 14.16282,-4.69751 33.45522,-6.74059 53.8538,-8.21125 l 37.88399,0.4156 c 37.41042,1.22388 79.44718,-0.40286 108.93951,15.75264 5.65916,3.75805 7.88106,7.18023 11.41321,10.73044 3.47127,3.92809 5.52832,8.83116 7.82017,13.57236 l 3.87883,16.6556 3.24707,80.12995 c -0.42261,8.29789 -3.23797,12.22627 -7.40044,13.69465 l -70.03727,28.02076 -10.26175,6.19963 c -2.00032,2.85276 -3.9693,5.61683 -6.61538,10.29734 -2.06461,5.1382 -4.21182,10.11362 -5.51288,16.75657 -5.79481,38.89342 -5.26124,82.00656 -5.4597,124.63158 l -60.51132,-0.34519 z"
+       id="path438-3"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Wheel Drawing"
+     style="display:inline">
+    <path
+       style="opacity:0.817936;fill:#5599ff;stroke:#0000ff;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       d="m 99.968284,150.83167 259.932896,20.69065 c 18.46561,2.681 21.46304,10.8066 24.64995,24.99781 l 15.22621,60.90747 c 1.92532,6.17772 4.76332,12.93357 18.16576,12.81844 l 49.58563,-0.19727 c 9.4614,0.007 16.23459,-1.56216 16.12749,-14.51179 l -0.7203,-187.854864 c -0.13345,-3.169569 -1.84275,-4.125581 -3.90137,-4.139747 L 98.385834,63.212901 c -4.01032,0.05844 -5.64289,1.651648 -5.48599,4.928002 l 0.0265,75.856827 c 0.53925,3.70726 2.93703,5.95535 7.04192,6.83394 z"
+       id="path858"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
