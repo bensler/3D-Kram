@@ -24,14 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.5985118"
-     inkscape:cx="294.28832"
-     inkscape:cy="87.258294"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:cx="294.42727"
+     inkscape:cy="175.07237"
+     inkscape:window-width="3440"
+     inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1" />
   <g
@@ -46,21 +47,19 @@
          d="M 40,10 C 40,25.172486 25.187823,40 10,40 l 0,-30 z"
          sodipodi:nodetypes="cccc" />
     </g>
-    <g
-       id="g7">
-      <path
-         d="M 75,9.9999995 C 75,25.172487 60.187823,40 45,40 V 9.9999995 Z"
-         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-         id="path1"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <g
-       id="g5">
-      <path
-         d="M 115,10.262159 C 115,25.434646 100.18782,40.26216 85,40.26216 V 10.262159 h 7.5 l 1.208072,22.278986 7.226208,-14.176373 -0.16426,-7.920113 z"
-         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-         id="path1-2"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
+    <path
+       d="M 75,9.9999995 C 75,25.172487 60.187823,40 45,40 V 9.9999995 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+       id="path1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       d="M 110,10 C 110,25.172487 95.18782,40.26216 80,40.26216 V 10 h 10 c 0,0 -4.538459,19.613323 -2.5,22.541145 2.038459,2.927822 12.106757,-5.355339 12.031629,-9.585267 C 99.4736,19.688674 96.632415,20.719555 95,18.364772 94.667897,17.885708 100,10 100,10 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+       id="path1-2"
+       sodipodi:nodetypes="cccczsscc" />
+    <path
+       d="m 145.05,10.05 c 0,15.172488 -14.81218,30.262161 -30,30.262161 V 10.05 h 10 c 0,0 -4.53846,19.613324 -2.5,22.541146 2.03846,2.927822 12.10675,-5.355339 12.03163,-9.585267 -0.058,-3.267205 -2.89922,-2.236324 -4.53163,-4.591106 -0.33211,-0.479064 5,-8.364773 5,-8.364773 z"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+       id="path1-4" />
   </g>
 </svg>
