@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Napf-Kiste-Fuesschen.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.5445321"
+     inkscape:cx="253.87772"
+     inkscape:cy="94.712894"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path4-9"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       d="m 70.05,16.55 c 0,-3.798658 2.604822,-6.5 6.5,-6.5 h 41 l 4,3 -50,50 -1.5,-2 z"
+       sodipodi:nodetypes="ssccccs"
+       inkscape:label="rot" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       id="path4"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+       d="M 10,16.5 C 10,12.701342 12.604822,10 16.5,10 h 41 l 4,3 -19,19.04335 c 0,0 -3.002426,-1.906002 -5.385146,0.245759 C 34.732134,34.44087 36.5,38.038884 36.5,38.038884 L 11.5,63 10,61 Z"
+       sodipodi:nodetypes="ssccczcccs"
+       inkscape:label="schwarz" />
+  </g>
+</svg>
