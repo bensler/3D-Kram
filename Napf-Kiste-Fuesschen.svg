@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.5445321"
-     inkscape:cx="253.87772"
-     inkscape:cy="94.712894"
+     inkscape:zoom="1.7992559"
+     inkscape:cx="91.704576"
+     inkscape:cy="124.49591"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="0"
@@ -54,7 +54,7 @@
     <path
        id="path4"
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-       d="M 10,16.5 C 10,12.701342 12.604822,10 16.5,10 h 41 l 4,3 -19,19.04335 c 0,0 -3.002426,-1.906002 -5.385146,0.245759 C 34.732134,34.44087 36.5,38.038884 36.5,38.038884 L 11.5,63 10,61 Z"
+       d="m 10.05,16.55 c 0,-3.798658 2.604822,-6.5 6.5,-6.5 h 41 l 4,3 L 41,33.55 c 0,0 -2.863022,-2.03107 -5.245742,0.120691 C 33.371538,35.822452 35,39.65 35,39.65 l -23.45,23.4 -1.5,-2 z"
        sodipodi:nodetypes="ssccczcccs"
        inkscape:label="schwarz" />
   </g>
