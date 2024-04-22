@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="5.829742"
-     inkscape:cx="236.71717"
-     inkscape:cy="475.49274"
+     inkscape:zoom="4.1222501"
+     inkscape:cx="262.47801"
+     inkscape:cy="226.09012"
      inkscape:window-width="3440"
      inkscape:window-height="1363"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g777"
+     inkscape:current-layer="g584"
      inkscape:document-units="mm" />
   <desc
      id="desc1">voq288eo.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = auto</desc>
@@ -151,11 +151,10 @@
         <circle
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            id="path6-3-0"
-           cx="121.40575"
-           cy="96.236115"
-           r="9.2598429"
-           inkscape:label="hole"
-           transform="translate(-27.866459,164.44411)" />
+           cx="93.539284"
+           cy="260.68024"
+           r="11.149607"
+           inkscape:label="hole" />
       </g>
       <g
          id="g778"
@@ -171,11 +170,10 @@
         <circle
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            id="path6-3-90"
-           cx="303.70126"
-           cy="101.1568"
-           r="9.2598429"
-           inkscape:label="hole"
-           transform="translate(1.744335,159.45241)" />
+           cx="305.44559"
+           cy="260.60919"
+           r="11.149607"
+           inkscape:label="hole" />
       </g>
       <g
          id="g780"
@@ -191,11 +189,10 @@
         <circle
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            id="path6-3-8"
-           cx="215.18871"
-           cy="47.532055"
-           r="9.2598429"
-           inkscape:label="hole"
-           transform="translate(-15.742624,29.598262)" />
+           cx="199.44609"
+           cy="77.130318"
+           r="11.149607"
+           inkscape:label="hole" />
       </g>
     </g>
     <g
@@ -232,21 +229,21 @@
          id="path6-3"
          cx="604.44604"
          cy="28.130314"
-         r="9.2598429"
+         r="11.527559"
          inkscape:label="topHole" />
       <circle
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          id="path6-3-4"
          cx="710.44556"
          cy="211.60921"
-         r="9.2598429"
+         r="11.527559"
          inkscape:label="rightHole" />
       <circle
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          id="path6-3-1"
          cx="498.53931"
          cy="211.68022"
-         r="9.2598429"
+         r="11.527559"
          inkscape:label="leftHole" />
       <path
          id="path6-6-7"
