@@ -1,0 +1,6 @@
+0. 00ff00 (grün)       gravier Fläche
+1. 808080 (grau)       gravier Fläche
+
+2. ff0000 (rot)        cut
+3. 00ffff (türkis)     cut
+4. 0000ff (blau)       cut
