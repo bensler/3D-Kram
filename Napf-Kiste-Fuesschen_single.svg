@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Napf-Kiste-Fuesschen_single.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7992559"
+     inkscape:cx="309.85031"
+     inkscape:cy="244.54554"
+     inkscape:window-width="3440"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       id="path4"
+       style="fill:none;stroke:#000000;stroke-width:0.0968501;stroke-linecap:round"
+       d="m 10.048425,16.343681 c 0,-3.679004 2.522773,-6.295256 6.295256,-6.295256 h 39.708538 l 3.874003,2.905503 -19.902694,19.854269 c 0,0 -2.772839,-1.967094 -5.080505,0.116889 -2.307667,2.083982 -0.7305,5.790966 -0.7305,5.790966 L 11.501176,61.378974 10.048425,59.441972 Z"
+       sodipodi:nodetypes="ssccczcccs"
+       inkscape:label="schwarz" />
+    <path
+       id="path4-5"
+       style="fill:none;stroke:#000000;stroke-width:0.0968501;stroke-linecap:round"
+       d="m 67.596158,56.377804 c 0,3.679 -2.52278,6.29526 -6.29526,6.29526 h -39.70854 l -3.874,-2.90551 19.90269,-19.85427 c 0,0 2.77284,1.9671 5.08051,-0.11689 2.30766,-2.08398 0.7305,-5.79096 0.7305,-5.79096 l 22.71134,-22.662924 1.45276,1.937004 z"
+       sodipodi:nodetypes="ssccczcccs"
+       inkscape:label="schwarz" />
+  </g>
+</svg>
